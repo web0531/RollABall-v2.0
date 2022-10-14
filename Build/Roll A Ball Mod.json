@@ -1,0 +1,16 @@
+{
+"companyName": "Weber Gilbert",
+"productName": "Weber Gilbert Roll A Ball v2",
+"productVersion": "2.0",
+"dataUrl": "Roll A Ball Mod.data.unityweb",
+"wasmCodeUrl": "Roll A Ball Mod.wasm.code.unityweb",
+"wasmFrameworkUrl": "Roll A Ball Mod.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.31f1"
+}
